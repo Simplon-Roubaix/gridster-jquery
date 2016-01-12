@@ -3,6 +3,7 @@ h1 {
     padding-bottom: 50px;
     padding-top: 50px;
     font-family: fantasy;
+    font-weight: bold;
 }
 li {
     list-style-type: none;
