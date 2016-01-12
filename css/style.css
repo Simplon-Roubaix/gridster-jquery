@@ -17,7 +17,15 @@ li {
     padding-top: 20px;
     padding-bottom: 20px;
     border-radius: 5px;
+    width: 960px;
+    position: relative;
+    margin-left: 17%;
 }
 .gridster li {
     text-align: center;
+}
+ul {
+    height: 480px;
+    width: 960px;
+    position: relative;
 }
